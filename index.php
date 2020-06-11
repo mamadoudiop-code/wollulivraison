@@ -1,6 +1,4 @@
-<!-- Nom &amp; Prénom: WOUMTANA P. Youssouf
-            Téléphone: +226 63 86 22 46 / 73 35 41 41
-                Email: issoufwoumtana@gmail.com -->
+
 <?php
     include("query/fonction.php");
     include("dico.php");
