@@ -11,7 +11,7 @@ on:
     - cron: '0 16 * * *'
   
   # Optionnel : permet de déclencher le workflow manuellement
-  workflow_dispatch:
+  #workflow_dispatch:
 
 jobs:
   run_on_schedule:
